@@ -19,4 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "/Anime-Dictionary.github.io/",  // Add this line for GitHub Pages
 }));
