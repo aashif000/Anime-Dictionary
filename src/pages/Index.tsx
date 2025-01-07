@@ -75,8 +75,7 @@ const Index = () => {
                 <SelectValue placeholder="Search type" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="name">Search by name</SelectItem>
-                <SelectItem value="letter">Search by letter</SelectItem>
+                <SelectItem value="name">Search by name</SelectItem> 
               </SelectContent>
             </Select>
             
